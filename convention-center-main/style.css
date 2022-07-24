@@ -1,0 +1,18 @@
+.row{
+    display: flex;
+    align-items: center;
+}
+.rounded-4:hover{
+background-color: rgb(21, 105, 222);
+color: white;
+margin-top: -20px;
+box-shadow: 5px 5px 10px rgb(21, 105, 222);
+}
+.border{
+    box-shadow: 8px 8px 14px rgb(153, 144, 144);
+}
+.new{
+    display: flex;
+    
+    justify-content: center;
+}
